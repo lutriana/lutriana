@@ -7,7 +7,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- ⚡ 4th year computer and systems engineering student
+- ⚡ 3rd year computer and systems engineering student
   
 - 🔭 I’m currently working on my software architecture class project
   
