@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./luisacoded/header.png" height="250" alt="hi, i'm luisa" />
+<img src="./luisacoded/header.png" height="300" alt="hi, i'm luisa" />
 </div>
 
 ## <img src="./luisacoded/star.svg" height="30" align="absmiddle" /> &nbsp; about me
@@ -27,20 +27,20 @@ real-time data, maps, visualization and vehicle control.<br />
 
 ## <img src="./luisacoded/folder.svg" height="30" style="vertical-align: absmiddle;" /> &nbsp; toolbox
 
-<img src="./luisacoded/java.svg" height="30" align="absmiddle" /> &nbsp;
-<img src="./luisacoded/python.svg" height="30" align="absmiddle" /> &nbsp;
-<img src="./luisacoded/typescript.svg" height="30" align="absmiddle" /> &nbsp;
-<img src="./luisacoded/javascript.svg" height="30" align="absmiddle" /> &nbsp;
-<img src="./luisacoded/react.svg" height="30" align="absmiddle" /> &nbsp;
-<img src="./luisacoded/vite.svg" height="30" align="absmiddle" /> &nbsp;
-<img src="./luisacoded/nodejs.svg" height="30" align="absmiddle" /> &nbsp;
-<img src="./luisacoded/fastapi.svg" height="30" align="absmiddle" /> &nbsp;
-<img src="./luisacoded/django.svg" height="20" align="absmiddle" />
-<img src="./luisacoded/mysql.svg" height="30" align="absmiddle" /> &nbsp;
-<img src="./luisacoded/aws.svg" height="30" align="absmiddle" /> &nbsp;
-<img src="./luisacoded/docker.svg" height="30" align="absmiddle" /> &nbsp;
-<img src="./luisacoded/terraform.svg" height="30" align="absmiddle" /> &nbsp;
-<img src="./luisacoded/git.svg" height="30" align="absmiddle" />
+<img src="./luisacoded/java.svg" height="25" align="absmiddle" /> &nbsp;
+<img src="./luisacoded/python.svg" height="25" align="absmiddle" /> &nbsp;
+<img src="./luisacoded/typescript.svg" height="25" align="absmiddle" /> &nbsp;
+<img src="./luisacoded/javascript.svg" height="25" align="absmiddle" /> &nbsp;
+<img src="./luisacoded/react.svg" height="25" align="absmiddle" /> &nbsp;
+<img src="./luisacoded/vite.svg" height="25" align="absmiddle" /> &nbsp;
+<img src="./luisacoded/nodejs.svg" height="25" align="absmiddle" /> &nbsp;
+<img src="./luisacoded/fastapi.svg" height="25" align="absmiddle" /> &nbsp;
+<img src="./luisacoded/django.svg" height="15" align="absmiddle" />
+<img src="./luisacoded/mysql.svg" height="25" align="absmiddle" /> &nbsp;
+<img src="./luisacoded/aws.svg" height="25" align="absmiddle" /> &nbsp;
+<img src="./luisacoded/docker.svg" height="25" align="absmiddle" /> &nbsp;
+<img src="./luisacoded/terraform.svg" height="25" align="absmiddle" /> &nbsp;
+<img src="./luisacoded/git.svg" height="25" align="absmiddle" />
 
 ## <img src="./luisacoded/pinkheart.svg" height="30" align="absmiddle" /> &nbsp; let's connect
 
