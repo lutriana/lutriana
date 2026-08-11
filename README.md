@@ -50,7 +50,7 @@ real-time data, maps, visualization and vehicle control.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./luisacoded/folder.svg" height="20" align="absmiddle" />   [luisasportfolio.io](https://luisasportfolio.io)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./luisacoded/instagram.svg" height="24" align="absmiddle" />   [instagram.com/codesluli](https://www.instagram.com/codesluli/)
+<img src="./luisacoded/instagram.svg" height="24" align="absmiddle" />   [instagram.com/lulicodes](https://www.instagram.com/lulicodes/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./luisacoded/mail.svg" height="20" align="absmiddle" />   [codesluli@gmail.com](mailto:codesluli@gmail.com)
 
