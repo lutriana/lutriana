@@ -1,277 +1,51 @@
 <div align="center">
-
-<img src="./luisacoded/header.png" alt="hi, i'm luisa" width="100%" />
-
-<br><br>
-
-<samp>systems engineer · software developer · builder</samp>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/lutriana/">
-  <img src="./luisacoded/linkedin.png" width="42" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://luisasportfolio.io">
-  <img src="./luisacoded/folder.png" width="42" alt="Portfolio" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/codesluli/">
-  <img src="./luisacoded/instagram.png" width="42" alt="Instagram" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:codesluli@gmail.com">
-  <img src="./luisacoded/mail.png" width="42" alt="Email" />
-</a>
-
+<img src="./luisacoded/header.png" alt="hi, i'm luisa" />
 </div>
 
-<br>
+## <img src="./luisacoded/star.svg" height="24" style="vertical-align: middle;" /> &nbsp; about me
 
-<h2>
-  <img src="./luisacoded/star.png" width="30" style="vertical-align: middle;">
-  &nbsp; about me
-</h2>
+<img src="./luisacoded/code.svg" height="20" style="vertical-align: middle;" /> &nbsp; systems & computing engineering student @ UTB<br />
+<img src="./luisacoded/laptop.svg" height="20" style="vertical-align: middle;" /> &nbsp; software developer interested in web, cloud, data & IoT<br />
+<img src="./luisacoded/rocket.svg" height="20" style="vertical-align: middle;" /> &nbsp; turning ideas into things that actually work
 
-<table>
-  <tr>
-    <td width="50">
-      <img src="./luisacoded/code.png" width="32">
-    </td>
-    <td>
-      systems & computing engineering student @ UTB
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="./luisacoded/laptop.png" width="32">
-    </td>
-    <td>
-      software developer interested in web, cloud, data & IoT
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="./luisacoded/rocket.png" width="32">
-    </td>
-    <td>
-      i like turning ideas into things that actually work
-    </td>
-  </tr>
-</table>
+## <img src="./luisacoded/gear.svg" height="24" style="vertical-align: middle;" /> &nbsp; toolbox
 
-<br>
+<img src="./luisacoded/java.svg" height="42" style="vertical-align: middle;" /> &nbsp;
+<img src="./luisacoded/python.svg" height="42" style="vertical-align: middle;" /> &nbsp;
+<img src="./luisacoded/typescript.svg" height="42" style="vertical-align: middle;" /> &nbsp;
+<img src="./luisacoded/javascript.svg" height="42" style="vertical-align: middle;" /> &nbsp;
+<img src="./luisacoded/react.svg" height="42" style="vertical-align: middle;" /> &nbsp;
+<img src="./luisacoded/vite.svg" height="42" style="vertical-align: middle;" /> &nbsp;
+<img src="./luisacoded/nodejs.svg" height="42" style="vertical-align: middle;" /> &nbsp;
+<img src="./luisacoded/fastapi.svg" height="42" style="vertical-align: middle;" /> &nbsp;
+<img src="./luisacoded/django.svg" height="42" style="vertical-align: middle;" /> &nbsp;
+<img src="./luisacoded/mysql.svg" height="42" style="vertical-align: middle;" /> &nbsp;
+<img src="./luisacoded/aws.svg" height="42" style="vertical-align: middle;" /> &nbsp;
+<img src="./luisacoded/docker.svg" height="42" style="vertical-align: middle;" /> &nbsp;
+<img src="./luisacoded/terraform.svg" height="42" style="vertical-align: middle;" /> &nbsp;
+<img src="./luisacoded/git.svg" height="42" style="vertical-align: middle;" />
 
-<h2>
-  <img src="./luisacoded/ship.png" width="32" style="vertical-align: middle;">
-  &nbsp; currently building
-</h2>
+## <img src="./luisacoded/ship.svg" height="24" style="vertical-align: middle;" /> &nbsp; currently building
 
-<table>
-  <tr>
-    <td width="70">
-      <img src="./luisacoded/ship.png" width="52">
-    </td>
-    <td>
-      <strong>Sentinel HMI</strong><br>
-      <sub>
-        a human-machine interface for an unmanned surface vehicle
-        combining real-time sensor data, maps, visualization and control.
-      </sub>
-    </td>
-  </tr>
-</table>
+<img src="./luisacoded/code.svg" height="20" style="vertical-align: middle;" /> &nbsp; Sentinel HMI — an interface for an unmanned surface vehicle<br />
+<img src="./luisacoded/chart.svg" height="20" style="vertical-align: middle;" /> &nbsp; real-time sensor data, maps, visualization & vehicle control<br />
+<img src="./luisacoded/cloud.svg" height="20" style="vertical-align: middle;" /> &nbsp; exploring cloud, IoT & scalable systems
 
-<br>
+## <img src="./luisacoded/rocket.svg" height="24" style="vertical-align: middle;" /> &nbsp; interested in
 
-<div align="center">
+<img src="./luisacoded/cloud.svg" height="20" style="vertical-align: middle;" /> &nbsp; cloud & AWS<br />
+<img src="./luisacoded/database.svg" height="20" style="vertical-align: middle;" /> &nbsp; data & backend systems<br />
+<img src="./luisacoded/code.svg" height="20" style="vertical-align: middle;" /> &nbsp; software development & automated testing
 
-<img src="./luisacoded/react.png" width="58">
-&nbsp;
-<img src="./luisacoded/typescript.png" width="58">
-&nbsp;
-<img src="./luisacoded/python.png" width="58">
-&nbsp;
-<img src="./luisacoded/database.png" width="58">
+## <img src="./luisacoded/heart.svg" height="24" style="vertical-align: middle;" /> &nbsp; let's connect
 
-<br>
-
-<sub>react · typescript · python · iot · real-time data</sub>
-
-</div>
-
-<br>
-
-<h2>
-  <img src="./luisacoded/gear.png" width="30" style="vertical-align: middle;">
-  &nbsp; toolbox
-</h2>
-
-<h3>languages</h3>
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="./luisacoded/java.png" width="70"><br>
-      <sub>Java</sub>
-    </td>
-    <td align="center" width="110">
-      <img src="./luisacoded/python.png" width="70"><br>
-      <sub>Python</sub>
-    </td>
-    <td align="center" width="110">
-      <img src="./luisacoded/typescript.png" width="70"><br>
-      <sub>TypeScript</sub>
-    </td>
-    <td align="center" width="110">
-      <img src="./luisacoded/javascript.png" width="70"><br>
-      <sub>JavaScript</sub>
-    </td>
-  </tr>
-</table>
-
-<h3>frontend</h3>
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="./luisacoded/react.png" width="70"><br>
-      <sub>React</sub>
-    </td>
-    <td align="center" width="110">
-      <img src="./luisacoded/vite.png" width="70"><br>
-      <sub>Vite</sub>
-    </td>
-  </tr>
-</table>
-
-<h3>backend</h3>
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="./luisacoded/nodejs.png" width="70"><br>
-      <sub>Node.js</sub>
-    </td>
-    <td align="center" width="110">
-      <img src="./luisacoded/fastapi.png" width="70"><br>
-      <sub>FastAPI</sub>
-    </td>
-    <td align="center" width="110">
-      <img src="./luisacoded/django.png" width="70"><br>
-      <sub>Django</sub>
-    </td>
-  </tr>
-</table>
-
-<h3>cloud & data</h3>
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="./luisacoded/aws.png" width="70"><br>
-      <sub>AWS</sub>
-    </td>
-    <td align="center" width="110">
-      <img src="./luisacoded/mysql.png" width="70"><br>
-      <sub>MySQL</sub>
-    </td>
-  </tr>
-</table>
-
-<h3>tools</h3>
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="./luisacoded/docker.png" width="70"><br>
-      <sub>Docker</sub>
-    </td>
-    <td align="center" width="110">
-      <img src="./luisacoded/terraform.png" width="70"><br>
-      <sub>Terraform</sub>
-    </td>
-    <td align="center" width="110">
-      <img src="./luisacoded/git.png" width="70"><br>
-      <sub>Git</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h2>
-  <img src="./luisacoded/rocket.png" width="30" style="vertical-align: middle;">
-  &nbsp; currently exploring
-</h2>
-
-<div align="center">
-
-<img src="./luisacoded/cloud.png" width="48">
-&nbsp;&nbsp;
-<img src="./luisacoded/battery.png" width="48">
-&nbsp;&nbsp;
-<img src="./luisacoded/chart.png" width="48">
-&nbsp;&nbsp;
-<img src="./luisacoded/code.png" width="48">
-
-<br>
-
-<sub>AWS · automated testing · Selenium · system design · IoT</sub>
-
-</div>
-
-<br>
-
-<h2>
-  <img src="./luisacoded/heart.png" width="30" style="vertical-align: middle;">
-  &nbsp; let's connect
-</h2>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="140">
-      <a href="https://www.linkedin.com/in/lutriana/">
-        <img src="./luisacoded/linkedin.png" width="65"><br>
-        <sub>LinkedIn</sub>
-      </a>
-    </td>
-
-    <td align="center" width="140">
-      <a href="https://luisasportfolio.io">
-        <img src="./luisacoded/folder.png" width="65"><br>
-        <sub>Portfolio</sub>
-      </a>
-    </td>
-
-    <td align="center" width="140">
-      <a href="https://www.instagram.com/codesluli/">
-        <img src="./luisacoded/instagram.png" width="65"><br>
-        <sub>Instagram</sub>
-      </a>
-    </td>
-
-    <td align="center" width="140">
-      <a href="mailto:codesluli@gmail.com">
-        <img src="./luisacoded/mail.png" width="65"><br>
-        <sub>Email</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<samp>build · learn · improve · repeat ♡</samp>
-
-</div>
-<a href="mailto:codesluli@gmail.com">email</a>
+<img src="./luisacoded/linkedin.svg" height="20" style="vertical-align: middle;" /> &nbsp; linkedin: [`@lutriana`](https://www.linkedin.com/in/lutriana/)<br />
+<img src="./luisacoded/instagram.svg" height="20" style="vertical-align: middle;" /> &nbsp; instagram: [`@codesluli`](https://www.instagram.com/codesluli/)<br />
+<img src="./luisacoded/mail.svg" height="20" style="vertical-align: middle;" /> &nbsp; email: [`codesluli@gmail.com`](mailto:codesluli@gmail.com)<br />
+<img src="./luisacoded/folder.svg" height="20" style="vertical-align: middle;" /> &nbsp; portfolio: [`luisasportfolio.io`](https://luisasportfolio.io)
 
 <br />
-<br />
 
-<samp>build · learn · improve · repeat ♡</samp>
-
+<div align="center">
+<samp>build · learn · grow · repeat ♡</samp>
 </div>
