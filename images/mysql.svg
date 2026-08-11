@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="92" viewBox="0 0 92 92" role="img" aria-label="MySQL">
+  <rect x="5" y="5" width="82" height="82" rx="24" fill="#F8FBFF" stroke="#A9C7FF" stroke-width="3"/>
+  <circle cx="70" cy="22" r="7" fill="#FFE08A"/>
+  <circle cx="20" cy="70" r="5" fill="#C9DCFF"/>
+  <path d="M20 31 C30 21, 43 21, 53 29" fill="none" stroke="#A9C7FF" stroke-width="2.5" stroke-linecap="round" opacity=".8"/>
+  <text x="46" y="56" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243B67">DB</text>
+  <path d="M31 68 Q46 76 61 68" fill="none" stroke="#FFD66B" stroke-width="3" stroke-linecap="round"/>
+</svg>
