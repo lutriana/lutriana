@@ -1,8 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="92" height="92" viewBox="0 0 92 92" role="img" aria-label="rocket">
-  <rect x="5" y="5" width="82" height="82" rx="24" fill="#F8FBFF" stroke="#A9C7FF" stroke-width="3"/>
-  <circle cx="70" cy="22" r="7" fill="#FFE08A"/>
-  <circle cx="20" cy="70" r="5" fill="#C9DCFF"/>
-  <path d="M20 31 C30 21, 43 21, 53 29" fill="none" stroke="#A9C7FF" stroke-width="2.5" stroke-linecap="round" opacity=".8"/>
-  <text x="46" y="56" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#243B67">↗</text>
-  <path d="M31 68 Q46 76 61 68" fill="none" stroke="#FFD66B" stroke-width="3" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-label="rocket">
+<defs>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#DCEAFF"/>
+    <stop offset="1" stop-color="#91B5FF"/>
+  </linearGradient>
+  <linearGradient id="yellow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#FFF1B8"/>
+    <stop offset="1" stop-color="#FFD96A"/>
+  </linearGradient>
+  <filter id="soft"><feGaussianBlur stdDeviation="0.55"/></filter>
+</defs>
+
+<path d="M30 61 C29 42 40 22 66 15 C70 39 61 59 43 68 Z" fill="url(#blue)" stroke="#263A63" stroke-width="2.4"/>
+<circle cx="55" cy="31" r="6" fill="#FFF9EA" stroke="#263A63" stroke-width="2"/>
+<path d="M37 57 L25 69 L39 66" fill="#FFE08A" stroke="#263A63" stroke-width="2" stroke-linejoin="round"/>
+<path d="M42 64 C37 73 39 79 45 83 C47 76 51 71 55 67" fill="#FFD96A" stroke="#263A63" stroke-width="2"/>
+<path d="M31 47 L19 48 L27 39" fill="#B7D3FF" stroke="#263A63" stroke-width="2"/>
+<path d="M25 72 l-7 6 M32 76 l-4 9" stroke="#7EA6F7" stroke-width="2.5" stroke-linecap="round"/>
+
 </svg>
