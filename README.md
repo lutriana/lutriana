@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./luisacoded/header.png" alt="hi, i'm luisa" />
+<img src="./luisacoded/header.png" height="250" alt="hi, i'm luisa" />
 </div>
 
 ## <img src="./luisacoded/star.svg" height="30" align="absmiddle" /> &nbsp; about me
