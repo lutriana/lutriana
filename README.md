@@ -48,7 +48,7 @@ real-time data, maps, visualization and vehicle control.<br />
 
 <img src="./luisacoded/linkedin.svg" height="24" align="absmiddle" />   <a href="https://www.linkedin.com/in/lutriana/" target="_blank">linkedin.com/in/lutriana</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./luisacoded/folder.svg" height="20" align="absmiddle" />   <a href="https://luisasportfolio.io" target="_blank">luisasportfolio.io</a>
+<img src="./luisacoded/folder.svg" height="20" align="absmiddle" />   <a href="https://luisatriana.dev/" target="_blank">luisatriana.dev</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./luisacoded/instagram.svg" height="24" align="absmiddle" />   <a href="https://www.instagram.com/lulicodes/" target="_blank">instagram.com/lulicodes</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
