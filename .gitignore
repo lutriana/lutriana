@@ -46,3 +46,7 @@ yarn-debug.log*
 yarn-error.log*
 *.tmp
 *.bak
+
+# Python
+__pycache__/
+*.pyc

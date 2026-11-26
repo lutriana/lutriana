@@ -75,7 +75,8 @@ def parse(text):
     return icons
 
 
-def render(rows):
+def pixel_grid(rows):
+    """Colour grid (css variable names or None) with the ink outline added."""
     grid = [[None if c == "." else CHARS[c] for c in r] for r in rows]
     out = [row[:] for row in grid]
     for y in range(SIZE):
@@ -86,12 +87,13 @@ def render(rows):
                 nx, ny = x + dx, y + dy
                 if 0 <= nx < SIZE and 0 <= ny < SIZE and grid[ny][nx] is None:
                     out[ny][nx] = "ink"
+    return out
 
-    used = sorted({c for row in out for c in row if c})
-    light = "".join(f"--d-{v}:{PALETTE[v][0]};" for v in used)
-    dark = "".join(f"--d-{v}:{PALETTE[v][1]};" for v in used)
+
+def grid_rects(grid):
+    """One <rect> per horizontal run of the same colour."""
     rects = []
-    for y, row in enumerate(out):
+    for y, row in enumerate(grid):
         x = 0
         while x < SIZE:
             colour = row[x]
@@ -103,11 +105,25 @@ def render(rows):
                     f'<rect x="{start}" y="{y}" width="{x - start}" height="1" '
                     f'style="fill:var(--d-{colour})"/>'
                 )
+    return "".join(rects)
+
+
+def palette_css(names, selector="svg"):
+    light = "".join(f"--d-{v}:{PALETTE[v][0]};" for v in names)
+    dark = "".join(f"--d-{v}:{PALETTE[v][1]};" for v in names)
+    return (
+        f"{selector}{{{light}}}"
+        f"@media (prefers-color-scheme: dark){{{selector}{{{dark}}}}}"
+    )
+
+
+def render(rows):
+    grid = pixel_grid(rows)
+    used = sorted({c for row in grid for c in row if c})
     return (
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {SIZE} {SIZE}" '
-        f'shape-rendering="crispEdges"><style>svg{{{light}}}'
-        f"@media (prefers-color-scheme: dark){{svg{{{dark}}}}}</style>"
-        + "".join(rects)
+        f'shape-rendering="crispEdges"><style>{palette_css(used)}</style>'
+        + grid_rects(grid)
         + "</svg>\n"
     )
 
