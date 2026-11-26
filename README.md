@@ -2,14 +2,16 @@
 
 # Hi! I’m Luisa
 
-*and this is my dev portfolio*
-
-<img src="./luisacoded/cards/terminal.svg" width="620" alt="~/luisa — zsh: $ whoami → luisa triana, systems & computing engineering student @ UTB; $ cat interests.txt → web · cloud · data · iot; $ ./build --ideas → turning ideas into things that actually work" />
-
 <img src="./luisacoded/folder.svg" height="16" align="absmiddle" /> [projects](#projects) &nbsp;&nbsp;
 <img src="./luisacoded/folder.svg" height="16" align="absmiddle" /> [my stack](#whats-in-my-stack) &nbsp;&nbsp;
 <img src="./luisacoded/folder.svg" height="16" align="absmiddle" /> [sentinel hmi](#sentinel-hmi) &nbsp;&nbsp;
 <img src="./luisacoded/folder.svg" height="16" align="absmiddle" /> [say hi](#lets-work-together)
+
+<br>
+
+*and this is my* ↓
+
+<img src="./luisacoded/cards/terminal.svg" width="620" alt="~/luisa — zsh: $ whoami → luisa triana, systems & computing engineering student @ UTB; $ cat interests.txt → web · cloud · data · iot; $ ./build --ideas → turning ideas into things that actually work" />
 
 </div>
 
@@ -19,13 +21,13 @@
 
 <img src="./luisacoded/laptop.svg" width="96" align="right" alt="" />
 
+♡ &nbsp;software developer into **web, cloud, data & IoT**<br>
+♡ &nbsp;i like turning **ideas** into things that **actually work**<br>
+♡ &nbsp;always learning, always **shipping**
+
 I’m a **Systems & Computing Engineering** student at UTB who enjoys building **practical software** that solves real-world problems.
 
 Whether designing **responsive frontend interfaces**, configuring **cloud infrastructure**, or connecting **telemetry data** from hardware devices, I thrive at the intersection of modern web development, cloud computing & data systems.
-
-> ♡ &nbsp;software developer into **web, cloud, data & IoT**<br>
-> ♡ &nbsp;i like turning **ideas** into things that **actually work**<br>
-> ♡ &nbsp;always learning, always **shipping**
 
 <br>
 
@@ -69,7 +71,7 @@ Whether designing **responsive frontend interfaces**, configuring **cloud infras
 
 <img src="./luisacoded/cards/device.svg" width="230" align="right" alt="Sentinel HMI handheld showing the telemetry map — want to take a look?" />
 
-*my spotlight project.*
+*my spotlight project.* &nbsp;·&nbsp; ★ featured system
 
 A **human-machine interface** for an **unmanned surface vehicle**. Engineered for **telemetry monitoring**, navigation control and real-time visualization.
 
@@ -88,15 +90,7 @@ A **human-machine interface** for an **unmanned surface vehicle**. Engineered fo
 
 <table>
   <tr>
-    <td align="center" valign="top" width="33%">
-      <sub><code>● ● ● &nbsp;sentinel-hmi</code></sub><br><br>
-      <img src="./luisacoded/ship.svg" height="64" alt="" /><br><br>
-      <b>Sentinel HMI</b><br>
-      Interface for monitoring unmanned surface vehicles · live maps, sensors &amp; telemetry<br><br>
-      <code>IoT</code> <code>React</code> <code>TypeScript</code> <code>Python</code><br><br>
-      <sub>★ featured system</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="50%">
       <sub><code>● ● ● &nbsp;telemetry-pipeline</code></sub><br><br>
       <img src="./luisacoded/cloud.svg" height="64" alt="" /><br><br>
       <b>Cloud Telemetry Pipeline</b><br>
@@ -104,7 +98,7 @@ A **human-machine interface** for an **unmanned surface vehicle**. Engineered fo
       <code>AWS</code> <code>Docker</code> <code>FastAPI</code> <code>MySQL</code><br><br>
       <sub><a href="https://github.com/lutriana">GitHub ↗</a></sub>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="50%">
       <sub><code>● ● ● &nbsp;dev-dashboard</code></sub><br><br>
       <img src="./luisacoded/chart.svg" height="64" alt="" /><br><br>
       <b>Developer Dashboard</b><br>
