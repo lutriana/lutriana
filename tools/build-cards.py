@@ -126,14 +126,15 @@ def card(name, w, h, body, label):
 
 
 def terminal():
-    x, y, w, h = 228, 44, 560, 330
-    b = [text(4, 178, "Hi!", "disp", 'font-size="108" font-weight="600" letter-spacing="-2" style="fill:var(--blue)"'),
-         text(812, 118, "I’m Luisa", "disp", 'font-size="29" font-weight="500" style="fill:var(--blue)"'),
-         text(814, 146, "and this is my", "disp", 'font-size="16.5" style="fill:var(--blue)"'),
-         '<path d="M890 164 C 902 222, 860 262, 800 268" style="fill:none;stroke:var(--blue)" stroke-width="2.5" stroke-linecap="round"/>'
-         '<path d="M812 257 L798 268 L813 277" style="fill:none;stroke:var(--blue)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>',
+    x, y, w, h = 268, 46, 556, 244
+    b = [text(-4, 214, "Hi!", "disp", 'font-size="148" font-weight="600" letter-spacing="-4" style="fill:var(--blue)"'),
+         text(842, 116, "I’m Luisa", "disp", 'font-size="42" font-weight="500" style="fill:var(--blue)"'),
+         text(844, 154, "and this is my", "disp", 'font-size="24" style="fill:var(--blue)"'),
+         '<path d="M960 176 C 972 236, 912 278, 834 282" style="fill:none;stroke:var(--blue)" stroke-width="3" stroke-linecap="round"/>'
+         '<path d="M849 269 L832 282 L850 293" style="fill:none;stroke:var(--blue)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>',
          f'<g transform="translate({x} {y})">',
-         f'<g filter="url(#sh)"><rect width="{w}" height="{h}" rx="14" fill="#1F2633"/></g>',
+         f'<g filter="url(#sh)"><rect x="-4" y="-4" width="{w + 8}" height="{h + 8}" rx="17" fill="#8FB6E6"/>'
+         f'<rect width="{w}" height="{h}" rx="14" fill="#1F2633"/></g>',
          bar(w, 34, 'fill="#2C3547"'), traffic(20, 17),
          text(w / 2, 22, "~/luisa — zsh", "ui", 'text-anchor="middle" font-size="12.5" font-weight="600" fill="#AEB9CC"')]
     rows = [("$", "whoami"), ("", "luisa triana — systems & computing engineering student @ UTB"), None,
@@ -153,14 +154,13 @@ def terminal():
             b.append(text(26, ty, s, "mono", f'font-size="14" fill="{colour}"'))
         ty += 23
     b.append(f'<rect x="{26 + 46 * 8.43:.0f}" y="{ty - 23 - 12}" width="9" height="16" fill="#B9E6A6"/>')
-    b.append(text(w / 2, h - 30, "dev portfolio", "script", 'text-anchor="middle" font-size="58" fill="#FFFBEA"'))
     b.append("</g>")
-    b.append(icon("heart", 742, 8, 70, rot=14))
-    b.append(icon("rocket", 176, 310, 76, rot=-12))
-    card("terminal", 1000, 410, "".join(b),
-         "Hi! I’m Luisa and this is my dev portfolio. ~/luisa — zsh: $ whoami → luisa triana, systems & computing engineering student @ UTB; "
+    b.append(icon("heart", 778, 8, 70, rot=14))
+    b.append(icon("rocket", 218, 236, 76, rot=-12))
+    card("terminal", 1110, 332, "".join(b),
+         "Hi! I’m Luisa and this is my ~/luisa — zsh: $ whoami → luisa triana, systems & computing engineering student @ UTB; "
          "$ cat interests.txt → web · cloud · data · iot; $ ./build --ideas → turning ideas into things "
-         "that actually work. dev portfolio")
+         "that actually work")
 
 
 def device():
