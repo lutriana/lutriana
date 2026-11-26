@@ -1,27 +1,23 @@
 <div align="center">
 
-# Hi!
+# Hi! I’m Luisa
 
-### I’m Luisa and this is my *dev portfolio*
+*and this is my dev portfolio*
 
-[projects](#projects) &nbsp;·&nbsp; [my stack](#whats-in-my-stack) &nbsp;·&nbsp; [sentinel hmi](#sentinel-hmi) &nbsp;·&nbsp; [say hi](#lets-work-together)
+<img src="./luisacoded/cards/terminal.svg" width="620" alt="~/luisa — zsh: $ whoami → luisa triana, systems & computing engineering student @ UTB; $ cat interests.txt → web · cloud · data · iot; $ ./build --ideas → turning ideas into things that actually work" />
+
+<img src="./luisacoded/folder.svg" height="16" align="absmiddle" /> [projects](#projects) &nbsp;&nbsp;
+<img src="./luisacoded/folder.svg" height="16" align="absmiddle" /> [my stack](#whats-in-my-stack) &nbsp;&nbsp;
+<img src="./luisacoded/folder.svg" height="16" align="absmiddle" /> [sentinel hmi](#sentinel-hmi) &nbsp;&nbsp;
+<img src="./luisacoded/folder.svg" height="16" align="absmiddle" /> [say hi](#lets-work-together)
 
 </div>
 
-🔴 🟡 🟢 &nbsp; `~/luisa — zsh`
-
-```console
-$ whoami
-luisa triana — systems & computing engineering student @ UTB
-
-$ cat interests.txt
-web · cloud · data · iot
-
-$ ./build --ideas
-✓ turning ideas into things that actually work
-```
+<br>
 
 ## About me
+
+<img src="./luisacoded/laptop.svg" width="96" align="right" alt="" />
 
 I’m a **Systems & Computing Engineering** student at UTB who enjoys building **practical software** that solves real-world problems.
 
@@ -31,36 +27,47 @@ Whether designing **responsive frontend interfaces**, configuring **cloud infras
 > ♡ &nbsp;i like turning **ideas** into things that **actually work**<br>
 > ♡ &nbsp;always learning, always **shipping**
 
+<br>
+
 ## what’s in my stack
 
-```ts
-const stack = {
-  languages:  ["java", "python", "typescript", "javascript"],    // fresh
-  frontBack:  ["react", "vite", "node.js", "fastapi", "django"], // duo
-  cloudData:  ["aws", "docker", "terraform", "mysql", "git"],    // extra
-};
-```
-
 <div align="center">
-<img src="./luisacoded/java.svg" height="32" alt="java" />
-<img src="./luisacoded/python.svg" height="32" alt="python" />
-<img src="./luisacoded/typescript.svg" height="32" alt="typescript" />
-<img src="./luisacoded/javascript.svg" height="32" alt="javascript" />
-&nbsp;
-<img src="./luisacoded/react.svg" height="32" alt="react" />
-<img src="./luisacoded/vite.svg" height="32" alt="vite" />
-<img src="./luisacoded/nodejs.svg" height="32" alt="node.js" />
-<img src="./luisacoded/fastapi.svg" height="32" alt="fastapi" />
-<img src="./luisacoded/django.svg" height="32" alt="django" />
-&nbsp;
-<img src="./luisacoded/aws.svg" height="32" alt="aws" />
-<img src="./luisacoded/docker.svg" height="32" alt="docker" />
-<img src="./luisacoded/terraform.svg" height="32" alt="terraform" />
-<img src="./luisacoded/mysql.svg" height="32" alt="mysql" />
-<img src="./luisacoded/git.svg" height="32" alt="git" />
+<table>
+  <tr>
+    <th width="220">languages &nbsp;<sub><code>fresh</code></sub></th>
+    <th width="220">front &amp; back &nbsp;<sub><code>duo</code></sub></th>
+    <th width="220">cloud &amp; data &nbsp;<sub><code>extra</code></sub></th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="./luisacoded/java.svg" height="24" align="absmiddle" /> &nbsp;java<br>
+      <img src="./luisacoded/python.svg" height="24" align="absmiddle" /> &nbsp;python<br>
+      <img src="./luisacoded/typescript.svg" height="24" align="absmiddle" /> &nbsp;typescript<br>
+      <img src="./luisacoded/javascript.svg" height="24" align="absmiddle" /> &nbsp;javascript
+    </td>
+    <td valign="top">
+      <img src="./luisacoded/react.svg" height="24" align="absmiddle" /> &nbsp;react<br>
+      <img src="./luisacoded/vite.svg" height="24" align="absmiddle" /> &nbsp;vite<br>
+      <img src="./luisacoded/nodejs.svg" height="24" align="absmiddle" /> &nbsp;node.js<br>
+      <img src="./luisacoded/fastapi.svg" height="24" align="absmiddle" /> &nbsp;fastapi<br>
+      <img src="./luisacoded/django.svg" height="24" align="absmiddle" /> &nbsp;django
+    </td>
+    <td valign="top">
+      <img src="./luisacoded/aws.svg" height="24" align="absmiddle" /> &nbsp;aws<br>
+      <img src="./luisacoded/docker.svg" height="24" align="absmiddle" /> &nbsp;docker<br>
+      <img src="./luisacoded/terraform.svg" height="24" align="absmiddle" /> &nbsp;terraform<br>
+      <img src="./luisacoded/mysql.svg" height="24" align="absmiddle" /> &nbsp;mysql<br>
+      <img src="./luisacoded/git.svg" height="24" align="absmiddle" /> &nbsp;git
+    </td>
+  </tr>
+</table>
 </div>
 
+<br>
+
 ## Sentinel HMI.
+
+<img src="./luisacoded/cards/device.svg" width="230" align="right" alt="Sentinel HMI handheld showing the telemetry map — want to take a look?" />
 
 *my spotlight project.*
 
@@ -68,23 +75,12 @@ A **human-machine interface** for an **unmanned surface vehicle**. Engineered fo
 
 `IoT` `React` `TypeScript` `Python`
 
-```text
-╭────────────────────────────────╮
-│ 11:11                • GPS ┃┃┃ │
-│ ┌────────────────────────────┐ │
-│ │           ╭───────╮        │ │
-│ │       ╭───╯       ╰──╮     │ │
-│ │ ──────╯              ╰─•·· │ │
-│ └────────────────────────────┘ │
-│      WANT TO TAKE A LOOK?      │
-│ Telemetry                  Map │
-╰────────────────────────────────╯
-```
-
 - **real-time sensor data** — live telemetry & analytical dashboards
 - **maps & visualization** — spatial mapping & trajectory tracking
 - **vehicle control** — command interfaces for remote operation
 - **IoT / cloud integration** — data pipelines to the backend
+
+<br clear="right">
 
 ## Projects
 
@@ -92,53 +88,52 @@ A **human-machine interface** for an **unmanned surface vehicle**. Engineered fo
 
 <table>
   <tr>
-    <td valign="top" width="33%">
-      <code>● ● ●&nbsp; sentinel-hmi</code><br><br>
-      <div align="center"><img src="./luisacoded/ship.svg" height="64" alt="" /></div><br>
+    <td align="center" valign="top" width="33%">
+      <sub><code>● ● ● &nbsp;sentinel-hmi</code></sub><br><br>
+      <img src="./luisacoded/ship.svg" height="64" alt="" /><br><br>
       <b>Sentinel HMI</b><br>
-      <sub>Interface for monitoring unmanned surface vehicles | live maps, sensors &amp; telemetry</sub><br><br>
+      Interface for monitoring unmanned surface vehicles · live maps, sensors &amp; telemetry<br><br>
       <code>IoT</code> <code>React</code> <code>TypeScript</code> <code>Python</code><br><br>
-      ★ <i>featured system</i>
+      <sub>★ featured system</sub>
     </td>
-    <td valign="top" width="33%">
-      <code>● ● ●&nbsp; telemetry-pipeline</code><br><br>
-      <div align="center"><img src="./luisacoded/cloud.svg" height="64" alt="" /></div><br>
+    <td align="center" valign="top" width="33%">
+      <sub><code>● ● ● &nbsp;telemetry-pipeline</code></sub><br><br>
+      <img src="./luisacoded/cloud.svg" height="64" alt="" /><br><br>
       <b>Cloud Telemetry Pipeline</b><br>
-      <sub>Scalable infrastructure for receiving, processing &amp; storing sensor streams in real time</sub><br><br>
+      Scalable infrastructure for receiving, processing &amp; storing sensor streams in real time<br><br>
       <code>AWS</code> <code>Docker</code> <code>FastAPI</code> <code>MySQL</code><br><br>
-      <a href="https://github.com/lutriana">GitHub ↗</a>
+      <sub><a href="https://github.com/lutriana">GitHub ↗</a></sub>
     </td>
-    <td valign="top" width="33%">
-      <code>● ● ●&nbsp; dev-dashboard</code><br><br>
-      <div align="center"><img src="./luisacoded/chart.svg" height="64" alt="" /></div><br>
+    <td align="center" valign="top" width="33%">
+      <sub><code>● ● ● &nbsp;dev-dashboard</code></sub><br><br>
+      <img src="./luisacoded/chart.svg" height="64" alt="" /><br><br>
       <b>Developer Dashboard</b><br>
-      <sub>Web app with real-time state management, data visualization &amp; clean responsive UI</sub><br><br>
+      Web app with real-time state management, data visualization &amp; clean responsive UI<br><br>
       <code>Vite</code> <code>React</code> <code>Node.js</code> <code>Tailwind</code><br><br>
-      <a href="https://github.com/lutriana">GitHub ↗</a>
+      <sub><a href="https://github.com/lutriana">GitHub ↗</a></sub>
     </td>
   </tr>
 </table>
 
+<br>
+
 ## Let’s work together!
 
-```yaml
-To:      codesluli@gmail.com
-Subject: let’s build something ♡
+<div align="center">
 
-Feel free to reach out for collaborations, questions, or just to say hi!
-```
+<a href="mailto:codesluli@gmail.com"><img src="./luisacoded/cards/mail.svg" width="520" alt="New Message — To: codesluli@gmail.com · Subject: let’s build something ♡ · Feel free to reach out for collaborations, questions, or just to say hi!" /></a>
 
 **contact me!**
 
-**Email:** [codesluli@gmail.com](mailto:codesluli@gmail.com)<br>
-**LinkedIn:** [/in/lutriana](https://www.linkedin.com/in/lutriana/)<br>
-**GitHub:** [lutriana](https://github.com/lutriana)<br>
-**Instagram:** [@luisatri4na](https://www.instagram.com/luisatri4na/)<br>
-**Portfolio:** [luisatriana.dev](https://luisatriana.dev/)
+<img src="./luisacoded/mail.svg" height="16" align="absmiddle" /> [codesluli@gmail.com](mailto:codesluli@gmail.com) &nbsp;·&nbsp;
+<img src="./luisacoded/linkedin.svg" height="16" align="absmiddle" /> [/in/lutriana](https://www.linkedin.com/in/lutriana/) &nbsp;·&nbsp;
+<img src="./luisacoded/github.svg" height="16" align="absmiddle" /> [lutriana](https://github.com/lutriana) &nbsp;·&nbsp;
+<img src="./luisacoded/instagram.svg" height="16" align="absmiddle" /> [@luisatri4na](https://www.instagram.com/luisatri4na/)
 
-<div align="center">
 <br>
 
-<sub>build · learn · improve · repeat</sub>
+<img src="./luisacoded/star.svg" height="14" align="absmiddle" /> &nbsp;<sub>build · learn · improve · repeat</sub>&nbsp; <img src="./luisacoded/heart.svg" height="14" align="absmiddle" />
+
+<sub>[luisatriana.dev](https://luisatriana.dev/)</sub>
 
 </div>
