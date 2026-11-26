@@ -1,17 +1,11 @@
 <div align="center">
 
-# Hi! I’m Luisa
+<img src="./luisacoded/cards/terminal.svg" width="100%" alt="Hi! I’m Luisa and this is my dev portfolio. $ whoami → luisa triana, systems & computing engineering student @ UTB; $ cat interests.txt → web · cloud · data · iot; $ ./build --ideas → turning ideas into things that actually work" />
 
 <img src="./luisacoded/folder.svg" height="16" align="absmiddle" /> [projects](#projects) &nbsp;&nbsp;
 <img src="./luisacoded/folder.svg" height="16" align="absmiddle" /> [my stack](#whats-in-my-stack) &nbsp;&nbsp;
 <img src="./luisacoded/folder.svg" height="16" align="absmiddle" /> [sentinel hmi](#sentinel-hmi) &nbsp;&nbsp;
 <img src="./luisacoded/folder.svg" height="16" align="absmiddle" /> [say hi](#lets-work-together)
-
-<br>
-
-*and this is my* ↓
-
-<img src="./luisacoded/cards/terminal.svg" width="620" alt="~/luisa — zsh: $ whoami → luisa triana, systems & computing engineering student @ UTB; $ cat interests.txt → web · cloud · data · iot; $ ./build --ideas → turning ideas into things that actually work" />
 
 </div>
 

@@ -39,12 +39,14 @@ THEME = {  # site tokens (styles/variables.css): (light, dark)
 FONTS = {
     "script": "Fraunces:ital,opsz,wght@1,9..144,500",
     "mono": "JetBrains+Mono:wght@{w}",
+    "disp": "Lexend+Exa:wght@{w}",
     "ui": "Plus+Jakarta+Sans:wght@{w}",
 }
 
 CSS = """
 .script{font-family:'Fraunces',Georgia,serif;font-style:italic;font-weight:500}
 .mono{font-family:'JetBrains Mono',ui-monospace,Menlo,monospace}
+.disp{font-family:'Lexend Exa','Helvetica Neue',Arial,sans-serif}
 .ui{font-family:'Plus Jakarta Sans',-apple-system,'Segoe UI',sans-serif}
 .px{shape-rendering:crispEdges}
 """
@@ -124,8 +126,13 @@ def card(name, w, h, body, label):
 
 
 def terminal():
-    x, y, w, h = 60, 40, 600, 330
-    b = [f'<g transform="translate({x} {y})">',
+    x, y, w, h = 228, 44, 560, 330
+    b = [text(4, 178, "Hi!", "disp", 'font-size="108" font-weight="600" letter-spacing="-2" style="fill:var(--blue)"'),
+         text(812, 118, "I’m Luisa", "disp", 'font-size="29" font-weight="500" style="fill:var(--blue)"'),
+         text(814, 146, "and this is my", "disp", 'font-size="16.5" style="fill:var(--blue)"'),
+         '<path d="M890 164 C 902 222, 860 262, 800 268" style="fill:none;stroke:var(--blue)" stroke-width="2.5" stroke-linecap="round"/>'
+         '<path d="M812 257 L798 268 L813 277" style="fill:none;stroke:var(--blue)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>',
+         f'<g transform="translate({x} {y})">',
          f'<g filter="url(#sh)"><rect width="{w}" height="{h}" rx="14" fill="#1F2633"/></g>',
          bar(w, 34, 'fill="#2C3547"'), traffic(20, 17),
          text(w / 2, 22, "~/luisa — zsh", "ui", 'text-anchor="middle" font-size="12.5" font-weight="600" fill="#AEB9CC"')]
@@ -148,10 +155,10 @@ def terminal():
     b.append(f'<rect x="{26 + 46 * 8.43:.0f}" y="{ty - 23 - 12}" width="9" height="16" fill="#B9E6A6"/>')
     b.append(text(w / 2, h - 30, "dev portfolio", "script", 'text-anchor="middle" font-size="58" fill="#FFFBEA"'))
     b.append("</g>")
-    b.append(icon("heart", 590, 6, 72, rot=14))
-    b.append(icon("rocket", 12, 300, 76, rot=-12))
-    card("terminal", 720, 400, "".join(b),
-         "~/luisa — zsh: $ whoami → luisa triana, systems & computing engineering student @ UTB; "
+    b.append(icon("heart", 742, 8, 70, rot=14))
+    b.append(icon("rocket", 176, 310, 76, rot=-12))
+    card("terminal", 1000, 410, "".join(b),
+         "Hi! I’m Luisa and this is my dev portfolio. ~/luisa — zsh: $ whoami → luisa triana, systems & computing engineering student @ UTB; "
          "$ cat interests.txt → web · cloud · data · iot; $ ./build --ideas → turning ideas into things "
          "that actually work. dev portfolio")
 
